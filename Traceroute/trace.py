@@ -4,7 +4,7 @@ import struct
 import sys
 import requests
 import re
-import ping_message
+from Traceroute import ping_message
 
 
 def run(destination, hops, timeout):
