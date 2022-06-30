@@ -1,9 +1,0 @@
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\bin\Debug\DNS.dll
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\bin\Debug\System.Reflection.TypeExtensions.dll
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\GovnoCode\Прога\Кэширующийdns-сервер\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
