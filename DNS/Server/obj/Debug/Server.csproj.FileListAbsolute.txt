@@ -1,0 +1,11 @@
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\bin\Debug\Server.exe
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\bin\Debug\Server.pdb
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\bin\Debug\DNS.dll
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\obj\Debug\Server.csproj.CopyComplete
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\obj\Debug\Server.exe
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\obj\Debug\Server.pdb
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\bin\Debug\nunit.framework.dll
+D:\GovnoCode\Прога\Кэширующийdns-сервер\Server\bin\Debug\nunit.framework.xml
